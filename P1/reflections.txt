@@ -7,4 +7,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
-暂时没有学到新知识，操作都很简单
+* 学习了 <em> 与 <i> 的区别：都是视觉上都是斜体，但 <em> 表示强调， <i> 是从文档中脱离的斜体
+* 用 <del> 表示删除的语义， <strike> 也可以但 HTML 5 不推荐
+* <sup> <sub> 表示上下标
