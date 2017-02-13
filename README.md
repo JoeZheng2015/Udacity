@@ -1,2 +1,2 @@
 # Udacity
-It is repository for Udacity missions
+It is a repository for Udacity missions
