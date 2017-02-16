@@ -1,0 +1,16 @@
+/* 添加 CSS */
+.Card {
+    border: 1px solid gray;
+    background-color: #fff;
+}
+.Card__name {
+    font-weight: bold;
+}
+.Card__img {
+    width: 300px;
+}
+.Card__content {
+    margin-top: 20px;
+    border: 1px solid gray;
+}
+
